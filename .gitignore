@@ -24,7 +24,7 @@
 /[Aa]ssets/Plugins/Editor/JetBrains*
 /[Aa]ssets/Environment/
 /[Aa]ssets/Houses/
-/[Aa]ssets/AiCharacters/
+
 
 # Visual Studio cache directory
 /.idea
